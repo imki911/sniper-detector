@@ -1,4 +1,4 @@
-# didactic-dollop
+# sniper-detector
 for English, please translate the following Chinese into Eng. in Google Translation.
 
 毕业设计成果-主动反狙击中的激光光点检测程序
